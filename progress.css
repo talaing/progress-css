@@ -13,7 +13,6 @@
   background-color: transparent;
   z-index: 99999;
   box-shadow: none;
-  transition: 0.8s;
   animation: progress-load var(--progress-duration);
   -webkit-animation: progress-load var(--progress-duration);
   animation-timing-function: ease-in-out;

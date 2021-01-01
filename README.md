@@ -1,6 +1,5 @@
 # Progress-CSS
 ###### A lightweight css only addon for displaying progress bars
-=========
 
 #### Installation:
 1. Add `progress.css` to your project

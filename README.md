@@ -10,5 +10,5 @@
     ```html
     <div class="progress-css"></div>
     ```
-> Made with <3 by talaing | [talaing.online](http://ricostacruz.com)
+> Made with <3 by talaing | [talaing.online](http://talaing.online)
 > Leave a star if you liked it!
